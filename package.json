@@ -1,6 +1,6 @@
 {
   "name": "is-only-emojis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns whether a string contains only emojis or not.",
   "main": "index.js",
   "scripts": {
