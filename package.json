@@ -1,0 +1,33 @@
+{
+  "name": "is-only-emojis",
+  "version": "0.0.0",
+  "description": "Returns whether a string contains only emojis or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpwilliams/is-only-emojis.git"
+  },
+  "keywords": [
+    "emoji",
+    "emojis",
+    "only",
+    "test",
+    "regex",
+    "replace",
+    "string",
+    "slack",
+    "skype"
+  ],
+  "author": "Jack Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jpwilliams/is-only-emojis/issues"
+  },
+  "homepage": "https://github.com/jpwilliams/is-only-emojis#readme",
+  "dependencies": {
+    "emoji-regex": "^6.5.0"
+  }
+}
