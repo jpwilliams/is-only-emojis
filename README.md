@@ -1,5 +1,7 @@
 # is-only-emojis
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jpwilliams/is-only-emojis.svg)](https://greenkeeper.io/)
+
 Returns whether a string contains only emojis or not.
 
 ``` js
