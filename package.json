@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/jpwilliams/is-only-emojis#readme",
   "dependencies": {
-    "emoji-regex": "^6.5.0"
+    "emoji-regex": "^8.0.0"
   }
 }
